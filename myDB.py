@@ -243,7 +243,7 @@ def display():
 stockDB = conn.connect(
     host="localhost",
     user="root",
-    password="1ipPw3dc@",
+    password="???????????",
     database="stockDB"
 )
 
